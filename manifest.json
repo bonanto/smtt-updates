@@ -1,0 +1,110 @@
+{
+ "app": {},
+ "format": 1,
+ "langs": {
+  "dict": {
+   "bn_BD": {
+    "files": [
+     {
+      "name": "bn_BD.aff",
+      "sha256": "6beeacefab0f691cb415c9ab8de227091a3be65510c3d8c0479513b261e61b97",
+      "size": 125422
+     },
+     {
+      "name": "bn_BD.dic",
+      "sha256": "cfc78b361861a726d22f0654d7c4e0b47f843c4a9e8b605c4c99e91ea683e116",
+      "size": 2237684
+     }
+    ],
+    "lang": "bn",
+    "name": "Bengali",
+    "sha256": "4bd705864d3d0575bd175a69c3ad24c820bbacdb5bc7b0d8547f859db4ef84eb",
+    "size": 426931,
+    "zip": "dict_bn_BD_8428badb.zip"
+   },
+   "en_US": {
+    "files": [
+     {
+      "name": "en_US.aff",
+      "sha256": "e746c882dd6f303c2c46e7452804b9201115a6942cfeb15f18f8edf774d2e24e",
+      "size": 3205
+     },
+     {
+      "name": "en_US.dic",
+      "sha256": "f0b1a234bd178bdd01875b2a392a9647f888b8fe879f79c52aae62c2759b3647",
+      "size": 551762
+     }
+    ],
+    "lang": "en",
+    "name": "English",
+    "sha256": "1644b01a4d8b3789629c4d27f898383c373e0c499a714e42e1a834ec4f4a19a1",
+    "size": 192668,
+    "zip": "dict_en_US_276e7d94.zip"
+   },
+   "hi_IN": {
+    "files": [
+     {
+      "name": "hi_IN.aff",
+      "sha256": "41ed35811470f0fe7873b02d2085a2f526fcd3cfdee86645cf2f90eee4194eae",
+      "size": 410863
+     },
+     {
+      "name": "hi_IN.dic",
+      "sha256": "a7e5f49d0f8341ad9683b512d424f4979d62e04f44541f098387f1911b4466c3",
+      "size": 220332
+     }
+    ],
+    "lang": "hi",
+    "name": "Hindi",
+    "sha256": "4ce630f3fa04d3e509a4ba7572eb05277892402852d4ac8cfb975759ebaa0585",
+    "size": 87887,
+    "zip": "dict_hi_IN_973b79ac.zip"
+   }
+  },
+  "ocr": {
+   "ben": {
+    "files": [
+     {
+      "name": "ben.traineddata",
+      "sha256": "1cd0129288d1f74f6661c35e638e487bd146a66bb732ecd9e011e48dcb0df623",
+      "size": 11045427
+     }
+    ],
+    "lang": "bn",
+    "name": "Bengali",
+    "sha256": "44d97ec1715522560efbc5a8c710e7b4ec97be4dcb225c48f19c2d5252250bbe",
+    "size": 10338332,
+    "zip": "ocr_ben_3294515b.zip"
+   },
+   "eng": {
+    "files": [
+     {
+      "name": "eng.traineddata",
+      "sha256": "8280aed0782fe27257a68ea10fe7ef324ca0f8d85bd2fd145d1c2b560bcb66ba",
+      "size": 15400601
+     }
+    ],
+    "lang": "en",
+    "name": "English",
+    "sha256": "a6591101eed99e702de074b2aa20fd04e64e6c68b19bd7bdf155bee5c95190bc",
+    "size": 12815092,
+    "zip": "ocr_eng_510cdbce.zip"
+   },
+   "hin": {
+    "files": [
+     {
+      "name": "hin.traineddata",
+      "sha256": "bd2e65a2184af08a167b0be2439e91fa5edbc4394399ca2f692b843ae26e78d6",
+      "size": 11895564
+     }
+    ],
+    "lang": "hi",
+    "name": "Hindi",
+    "sha256": "d6d53761debf7bca4e18c691ddc183a02b5082431bfb253d7d2450c2fe7aa579",
+    "size": 11315456,
+    "zip": "ocr_hin_b10444d7.zip"
+   }
+  }
+ },
+ "updated": "2026-10-19 17:00"
+}
