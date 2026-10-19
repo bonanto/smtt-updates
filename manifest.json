@@ -4,6 +4,14 @@
  "langs": {
   "dict": {
    "bn_BD": {
+    "docs": [
+     {
+      "name": "GNU GENERAL PUBLIC LICENSE  Version 2 (GPLv2).txt",
+      "scope": "common",
+      "sha256": "204d8eff92f95aac4df6c8122bc1505f468f3a901e5a4cc08940e0ede1938994",
+      "size": 18009
+     }
+    ],
     "files": [
      {
       "name": "bn_BD.aff",
@@ -18,11 +26,25 @@
     ],
     "lang": "bn",
     "name": "Bengali",
-    "sha256": "4bd705864d3d0575bd175a69c3ad24c820bbacdb5bc7b0d8547f859db4ef84eb",
-    "size": 426931,
-    "zip": "dict_bn_BD_8428badb.zip"
+    "sha256": "2e3adda446abe7ccdabcd0306e325801d8f6794dcfbd5a4c8d48dd675969ed7c",
+    "size": 434075,
+    "zip": "dict_bn_BD_dc217bd6.zip"
    },
    "en_US": {
+    "docs": [
+     {
+      "name": "GNU GENERAL PUBLIC LICENSE  Version 2 (GPLv2).txt",
+      "scope": "common",
+      "sha256": "204d8eff92f95aac4df6c8122bc1505f468f3a901e5a4cc08940e0ede1938994",
+      "size": 18009
+     },
+     {
+      "name": "README_en_US.txt",
+      "scope": "lang",
+      "sha256": "168b4c01cb841f766a72f310b065c04d09cff46376c37a81d799593ce751c371",
+      "size": 15732
+     }
+    ],
     "files": [
      {
       "name": "en_US.aff",
@@ -37,28 +59,42 @@
     ],
     "lang": "en",
     "name": "English",
-    "sha256": "1644b01a4d8b3789629c4d27f898383c373e0c499a714e42e1a834ec4f4a19a1",
-    "size": 192668,
-    "zip": "dict_en_US_276e7d94.zip"
+    "sha256": "a7d973daa91d0f17eefed38e43cae450e1e77aee8c6b8b08b98d9cffc381d5e6",
+    "size": 206209,
+    "zip": "dict_en_US_f6245037.zip"
    },
    "hi_IN": {
+    "docs": [
+     {
+      "name": "GNU GENERAL PUBLIC LICENSE  Version 2 (GPLv2).txt",
+      "scope": "common",
+      "sha256": "204d8eff92f95aac4df6c8122bc1505f468f3a901e5a4cc08940e0ede1938994",
+      "size": 18009
+     },
+     {
+      "name": "Copyright_hi_IN.txt",
+      "scope": "lang",
+      "sha256": "67e86e61e452247c2c491b63629799dec1d6dd4cf4aae47548f5141cf3707098",
+      "size": 834
+     }
+    ],
     "files": [
      {
       "name": "hi_IN.aff",
-      "sha256": "41ed35811470f0fe7873b02d2085a2f526fcd3cfdee86645cf2f90eee4194eae",
-      "size": 410863
+      "sha256": "3ab96772dc3d1cdbec4141798efb8b7a091b92c9acbeb5dfd3c4998a5c508302",
+      "size": 12671
      },
      {
       "name": "hi_IN.dic",
-      "sha256": "a7e5f49d0f8341ad9683b512d424f4979d62e04f44541f098387f1911b4466c3",
-      "size": 220332
+      "sha256": "1e01f962a02638ef73e3f8de3c44bfd854f7059d31c9fa96cff0b73a2840f9d9",
+      "size": 5004835
      }
     ],
     "lang": "hi",
     "name": "Hindi",
-    "sha256": "4ce630f3fa04d3e509a4ba7572eb05277892402852d4ac8cfb975759ebaa0585",
-    "size": 87887,
-    "zip": "dict_hi_IN_973b79ac.zip"
+    "sha256": "4de512559223616d634702eb28c5a5bffe8faf078cfa8674f327029d610cdf30",
+    "size": 1281585,
+    "zip": "dict_hi_IN_75d24aad.zip"
    }
   },
   "ocr": {
@@ -106,5 +142,5 @@
    }
   }
  },
- "updated": "2026-10-19 17:00"
+ "updated": "2026-10-20 02:23"
 }
